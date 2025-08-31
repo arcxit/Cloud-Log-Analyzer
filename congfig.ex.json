@@ -1,0 +1,10 @@
+{
+  "oci_enabled": false,
+  "tenancy": "ocid1.tenancy.oc1..xxxx",
+  "user": "ocid1.user.oc1..xxxx",
+  "region": "ap-mumbai-1",
+  "fingerprint": "xx:xx:xx:xx",
+  "key_file": "/path/to/oci_api_key.pem",
+  "bucket_name": "my-log-bucket",
+  "namespace": "mytenancy"
+}
